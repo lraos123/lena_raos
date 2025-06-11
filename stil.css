@@ -1,0 +1,64 @@
+@charset "utf-8";
+body {
+  background-color: #49545c;
+  padding: 10px;
+  margin: 10px;
+}
+p {
+  border: 2px double #b2cfbd;
+  border-bottom-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color: #c1f5c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line height: 16px;
+}
+h1 {
+  font-family:Garamond, serif;
+  color: #9da69f;
+  text-shadow: 3px 3px #000000;
+}
+h2 {
+  font-family:Garamond, serif;
+  color: #9da69f;
+  text-shadow: 2px 2px #000000;
+}
+h3 {
+  font-family:Garamond, serif;
+  color: #9da69f;
+  text-shadow: 2px 2px #2a343b;
+}
+a:link {
+  color:#7bc7bf;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+a:hover {
+  color:#aee6e0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+a:visited {
+  color:#e7f2ac;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+a:active {
+  color:#aee6e0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+ol {
+  color: #c1f5c8;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line height: 16px;
+}
+img {
+  border: 15px solid #d3dee6;
+  border-radius: 30px;
+}
+video {
+  border: 15px solid #d3dee6;
+  border-radius: 30px;
+}
